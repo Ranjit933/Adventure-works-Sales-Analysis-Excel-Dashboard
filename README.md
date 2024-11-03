@@ -22,11 +22,11 @@ The Adventure Sales Analysis Dashboard is an interactive Excel dashboard designe
 * **Dynamic Data Visualization**: Interactive charts and graphs that display sales trends over time, product performance, and customer demographics.
 
 * **Key Metrics Tracking**: Key performance indicators (KPIs) such as total sales, average order value, and conversion rates.
-* 
+
 * **Segmentation Analysis**: Breakdown of sales data by product categories, regions, and customer segments.
-* 
+
 * **User-Friendly Interface**: Intuitive layout that allows users to easily navigate through various insights and reports.
-* 
+
 * **Automated Reporting**: Automatically updated data visualizations that reflect the latest sales data.
 
 ### Technologies Used
